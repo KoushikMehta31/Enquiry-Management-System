@@ -22,7 +22,6 @@ The **Enquiry Management System** is a full-stack MERN application that allows u
 - **View Enquiries**: Displays a list of all submitted enquiries.
 - **Update Enquiries**: Admins can edit existing enquiries.
 - **Delete Enquiries**: Admins can remove enquiries from the database.
-- **User Feedback**: Real-time notifications for success or failure.
 
 ---
 
