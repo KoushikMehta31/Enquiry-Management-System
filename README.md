@@ -54,9 +54,9 @@ Here are some screenshots showing different parts of the application:
 1. **Homepage Preview**:
    - Screenshot showing the homepage of the Enquiry Management System.
    ![Homepage](/frontend/public/home.png)
-   
-2. **Add Enquiry Form**:
-   - Screenshot of the form used to add new enquiries.
+
+1. **Add Enquiry Form**:
+   - Screenshot showing the homepage of the Enquiry Management System.
    ![Add Enquiry Form](/frontend/public/form.png)
 
 3. **Enquiry List**:
