@@ -51,23 +51,27 @@ The **Enquiry Management System** is a full-stack MERN application that allows u
 
 Here are some screenshots showing different parts of the application:
 
-1. **Add Enquiry Form**:
+1. **Homepage Preview**:
+   - Screenshot showing the homepage of the Enquiry Management System.
+   ![Homepage](/frontend/public/home.png)
+   
+2. **Add Enquiry Form**:
    - Screenshot of the form used to add new enquiries.
-   ![Add Enquiry Form](/frontend/public/form.png)
+   ![Add Enquiry Form](./frontend/public/form.png)
 
-2. **Enquiry List**:
+3. **Enquiry List**:
    - Screenshot showing all enquiries listed in the application.
    ![Enquiry List](./assets/screenshots/enquiry-list.png)
 
-3. **Edit Enquiry**:
+4. **Edit Enquiry**:
    - Screenshot showing the "Edit Enquiry" form where you can modify existing enquiries.
    ![Edit Enquiry](./assets/screenshots/edit-enquiry.png)
 
-4. **Delete Confirmation**:
+5. **Delete Confirmation**:
    - Screenshot showing the confirmation dialog when you delete an enquiry.
    ![Delete Confirmation](./assets/screenshots/delete-confirmation.png)
 
-5. **MongoDB Data**:
+6. **MongoDB Data**:
    - Screenshot of the data stored in MongoDB.
    ![MongoDB Data](./assets/screenshots/mongodb-data.png)
 
