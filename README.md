@@ -57,7 +57,7 @@ Here are some screenshots showing different parts of the application:
    
 2. **Add Enquiry Form**:
    - Screenshot of the form used to add new enquiries.
-   ![Add Enquiry Form](./frontend/public/form.png)
+   ![Add Enquiry Form](/frontend/public/form.png)
 
 3. **Enquiry List**:
    - Screenshot showing all enquiries listed in the application.
