@@ -55,25 +55,26 @@ Here are some screenshots showing different parts of the application:
    - Screenshot showing the homepage of the Enquiry Management System.
    ![Homepage](/frontend/public/home.png)
 
-1. **Add Enquiry Form**:
+2. **Add Enquiry Form**:
    - Screenshot showing the homepage of the Enquiry Management System.
    ![Add Enquiry Form](/frontend/public/form.png)
 
 3. **Enquiry List**:
    - Screenshot showing all enquiries listed in the application.
-   ![Enquiry List](./assets/screenshots/enquiry-list.png)
+   ![Enquiry List](/frontend/public/store.png)
 
 4. **Edit Enquiry**:
-   - Screenshot showing the "Edit Enquiry" form where you can modify existing enquiries.
-   ![Edit Enquiry](./assets/screenshots/edit-enquiry.png)
+    - Screenshot showing the "Edit Enquiry".
+   ![Edit Enquiry](/frontend/public/edit.png)
 
 5. **Delete Confirmation**:
    - Screenshot showing the confirmation dialog when you delete an enquiry.
-   ![Delete Confirmation](./assets/screenshots/delete-confirmation.png)
+   ![Delete Confirmation](/frontend/public/delete.png)
 
 6. **MongoDB Data**:
    - Screenshot of the data stored in MongoDB.
-   ![MongoDB Data](./assets/screenshots/mongodb-data.png)
+   ![MongoDB Data](/frontend/public/mongodb.png)
+
 
 ---
 
@@ -93,28 +94,3 @@ Click the **"Delete"** button next to an enquiry to remove it from the database.
 
 ### Data in MongoDB
 The data for the enquiries is stored in MongoDB, and can be viewed directly in the database.
-
----
-
-## Future Enhancements:
-
-- Implement **user authentication** for admin roles.
-- **Email notifications** to notify users about the status of their enquiry.
-- Add **advanced search and filter** options for enquiries.
-
----
-
-## Contributing
-
-1. Fork this repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
