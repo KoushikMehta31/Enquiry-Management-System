@@ -47,15 +47,70 @@ The **Enquiry Management System** is a full-stack MERN application that allows u
 
 ---
 
-## Installation
+## Screenshots
 
-### Prerequisites:
+Here are some screenshots showing different parts of the application:
 
-- [Node.js](https://nodejs.org/) (LTS version recommended)
-- [MongoDB](https://www.mongodb.com/) (Install MongoDB locally or use MongoDB Atlas)
+1. **Add Enquiry Form**:
+   - Screenshot of the form used to add new enquiries.
+   ![Add Enquiry Form](./assets/screenshots/add-enquiry-form.png)
 
-### Steps:
+2. **Enquiry List**:
+   - Screenshot showing all enquiries listed in the application.
+   ![Enquiry List](./assets/screenshots/enquiry-list.png)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/enquiry-management-system.git
+3. **Edit Enquiry**:
+   - Screenshot showing the "Edit Enquiry" form where you can modify existing enquiries.
+   ![Edit Enquiry](./assets/screenshots/edit-enquiry.png)
+
+4. **Delete Confirmation**:
+   - Screenshot showing the confirmation dialog when you delete an enquiry.
+   ![Delete Confirmation](./assets/screenshots/delete-confirmation.png)
+
+5. **MongoDB Data**:
+   - Screenshot of the data stored in MongoDB.
+   ![MongoDB Data](./assets/screenshots/mongodb-data.png)
+
+---
+
+## Usage
+
+### Adding an Enquiry
+Click the **"Add Enquiry"** button, fill out the form, and submit the enquiry.
+
+### Viewing Enquiries
+View a list of all enquiries, with options to edit or delete each one.
+
+### Editing an Enquiry
+Click the **"Edit"** button next to any enquiry to modify its details.
+
+### Deleting an Enquiry
+Click the **"Delete"** button next to an enquiry to remove it from the database.
+
+### Data in MongoDB
+The data for the enquiries is stored in MongoDB, and can be viewed directly in the database.
+
+---
+
+## Future Enhancements:
+
+- Implement **user authentication** for admin roles.
+- **Email notifications** to notify users about the status of their enquiry.
+- Add **advanced search and filter** options for enquiries.
+
+---
+
+## Contributing
+
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a new pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
